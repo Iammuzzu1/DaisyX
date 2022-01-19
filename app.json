@@ -13,7 +13,7 @@
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
    {
-     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+     "url": "https://github.com/iammuzzu1/heroku-buildpack-ffmpeg-latest"
    },
    {
      "url": "https://github.com/InukaAsith/heroku-buildpack-python"
